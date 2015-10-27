@@ -1,6 +1,10 @@
-
-import static java.lang.Math.pow;
+/* Antikatestisa ola ta Math imports 
+   me thn --> import static java.lang.Math.*
+   Etsi ekxwrountai oles oi bibliothikes ths Math.
+*/
+import static java.lang.Math.pow; //mynhma oti den xreiazontai
 import static java.lang.Math.sqrt;
+import static java.lang.Math.*;
 
 /*
  * To change this license header, choose License Headers in Project Properties.
